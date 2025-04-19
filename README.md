@@ -26,7 +26,7 @@
   </a>
 </p>
 
-Consumet scrapes data from various websites and provides APIs for accessing the data to satisfy your needs.
+Consumet scrapessdsdas data from various websites and provides APIs for accessing the data to satisfy your needs.
 
 > [!IMPORTANT]
 > Self-hosting the Consumet is required to use the API. Consumet API is no longer publicly available. Please refer to the [Installation section](#installation) for more information on hosting your own instance.
