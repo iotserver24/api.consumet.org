@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/consumet/consumet.ts.git"
+        "url": "git+https://github.com/lunaranime/consumet.ts.git"
     },
     "author": "prince-ao <princead@tutanota.com>",
     "license": "MIT",
