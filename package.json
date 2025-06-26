@@ -14,7 +14,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/lunaranime/consumet.ts.git"
+        "url": "git+https://github.com/consumet/consumet.ts.git"
     },
     "author": "prince-ao <princead@tutanota.com>",
     "license": "MIT",
@@ -23,7 +23,7 @@
     },
     "homepage": "https://github.com/consumet/consumet.ts#readme",
     "dependencies": {
-        "@consumet/extension": "github:lunaranime/consumet.ts"
+        "@consumet/extensions": "github:consumet/consumet.ts",
         "@fastify/cors": "^8.5.0",
         "@types/node": "^18.11.17",
         "@types/ws": "^8.5.3",
